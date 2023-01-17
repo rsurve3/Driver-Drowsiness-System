@@ -1,0 +1,6 @@
+1. Training the dataset
+    - python eye_preprocess.py
+    - python eye_training_cnn.py
+
+2. Testing Real-time with Camera
+   - python drowsy_predict.py
